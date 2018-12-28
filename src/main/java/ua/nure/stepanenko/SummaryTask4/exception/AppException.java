@@ -4,7 +4,7 @@ package ua.nure.stepanenko.SummaryTask4.exception;
  * Created by eugen on 03.01.2017.
  */
 public class AppException extends Exception {
-
+//
     public AppException() {
         super();
     }
