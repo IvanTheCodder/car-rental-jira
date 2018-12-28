@@ -37,7 +37,7 @@ INSERT INTO users (login, password, full_name, role_id, passport)
 VALUES ('админ', 'e61dfbc3c9b44a7e7bcae19b2f35375d', 'Иван Иванов', 3, 'AA000000');
 
 INSERT INTO users (login, password, full_name, role_id, passport)
-VALUES ('admin', '21232f297a57a5a743894a0e4a801fc3', 'Stanislav Vorozhka', 3, 'AA000001');
+VALUES ('admin', '21232f297a57a5a743894a0e4a801fc3', 'eugen stepanenko', 3, 'AA000001');
 
 INSERT INTO users (login, password, full_name, role_id, passport)
 VALUES ('manager', '1d0258c2440a8d19e716292b231e3190', 'Petya Petrov', 2, 'AA000002');
